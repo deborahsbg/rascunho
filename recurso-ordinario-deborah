@@ -1,0 +1,541 @@
+# 🎯 RECURSO ORDINÁRIO - VERSÃO FINAL ESTRUTURADA
+
+**EXCELENTÍSSIMO SENHOR DESEMBARGADOR PRESIDENTE DO TRIBUNAL REGIONAL DO TRABALHO DA 2ª REGIÃO – SÃO PAULO/SP**
+
+---
+
+## I. PRELIMINARES
+
+### Tempestividade
+
+- Processo nº: 1000698-21.2025.5.02.0005  
+- Recorrente: DEBORAH EL ALAM SBEGHEN  
+- Recorrida: AMAZON SERVIÇOS DE VAREJO DO BRASIL LTDA.  
+- Decisão embargos publicada: [DATA]  
+- Prazo recursal: 8 dias úteis (art. 775, CLT)  
+- Protocolo: [DATA] — **TEMPESTIVO**
+
+### Justiça Gratuita e Isenção de Sucumbência
+
+A recorrente é hipossuficiente, conforme demonstrado nos autos por meio de laudos médicos psiquiátricos (hashes: `be6e42d`, `8e081a7`), da declaração de Imposto de Renda que comprova ausência de rendimentos tributáveis (hash: `3b7f4e9`), e do documento “Terms of Employment” (hash: `6c2d1a3`), que contém cláusulas restritivas quanto ao uso de sistemas da ré. Soma-se a isso o e-mail de dispensa enviado pela recorrida em 11/07/2024, dois dias após comunicação formal de cirurgia, revelando dispensa abrupta e sem justificativa (hash: `9a8f2d0`).
+
+A impossibilidade de produzir provas decorre do controle exclusivo da ré sobre os dados relevantes, como registros internos, logs de acesso e comunicações corporativas. Nos termos do art. 5º, LXXIV, da Constituição Federal, da Lei 1.060/50 e do art. 98, §1º, incisos I e VI, do CPC, requer-se a concessão da justiça gratuita, com isenção total de custas, honorários periciais e honorários advocatícios.
+
+### Vedação à Penalização da Parte Hipossuficiente
+
+A condenação em honorários de sucumbência, diante da hipossuficiência econômica e probatória da autora, configura violação ao princípio da dignidade da pessoa humana (art. 1º, III, CF), bem como ao direito de acesso à justiça (art. 5º, XXXV, CF). A parte não pode ser penalizada por buscar o reconhecimento de direitos constitucionais, especialmente quando a instrução foi obstaculizada por fatores alheios à sua vontade.
+
+A jurisprudência do Tribunal Superior do Trabalho é pacífica quanto à inaplicabilidade da sucumbência em casos de hipossuficiência comprovada e cerceamento de defesa. Requer-se, portanto, o reconhecimento da justiça gratuita em sua integralidade, com a exclusão da condenação em honorários de sucumbência.
+
+---
+
+📌 *Superadas as preliminares, passa-se à exposição dos fatos e à demonstração do cerceamento de defesa que comprometeu a validade da sentença.*
+
+---
+
+## II. SÍNTESE FACTUAL
+
+A presente demanda decorre de uma dispensa abrupta ocorrida em 11/07/2024, apenas dois dias após a autora comunicar formalmente à empresa a necessidade de afastamento médico para realização de cirurgia (09/07/2024). Em 14/07/2024, a autora recebeu o contrato de rescisão, que continha cláusula expressa de confidencialidade pós-demissão, sem qualquer orientação sobre preservação de dados ou acesso aos sistemas corporativos.
+
+Durante a audiência instrutória, o preposto da ré, João Zara, apresentou declarações contraditórias em relação às políticas internas da empresa (VCS Policies), especialmente sobre segurança digital e conduta da autora. A autora solicitou a gravação integral da audiência, diante da relevância das falas, mas o pedido foi indeferido pela Vara, sem justificativa. A ata da audiência também deixou de registrar falas essenciais e documentos mencionados oralmente.
+
+Posteriormente, foram opostos embargos de declaração, com o objetivo de sanar omissões relevantes da sentença, como a negativa de perícia digital e a ausência de enfrentamento de pedidos específicos. Os embargos foram rejeitados de forma genérica, sem análise dos pontos indicados.
+
+📌 Esses elementos revelam um contexto de instrução processual fragilizada, marcada por obstáculos à produção de prova e omissões decisórias que serão detalhadas no item III.
+
+---
+## III. CERCEAMENTO DE DEFESA TRIPLO (TESE PRINCIPAL)
+
+### A) Indeferimento da Perícia Digital
+
+A produção de prova digital foi indeferida pela Vara, mesmo diante da impossibilidade contratual da parte autora em acessar os sistemas da ré. O documento “Terms of Employment” (hash: `6c2d1a3`), juntado aos autos, contém cláusulas que evidenciam hipossuficiência probatória estrutural:
+
+- Cláusula **2.3(d)**: veda presença de terceiros durante o trabalho, inviabilizando prova testemunhal presencial.
+- Cláusula **2.3(e)**: revoga acesso aos sistemas após o desligamento, proibindo qualquer tentativa de preservação de dados.
+- Cláusula **2.4(a)**: proíbe copiar, imprimir ou compartilhar conteúdo interno sem autorização.
+- Cláusula **3.1(b)**: estabelece que todo conteúdo acessado pertence exclusivamente à Amazon e não pode ser utilizado fora do ambiente corporativo.
+
+Além disso, o preposto da ré afirmou em juízo que a autora seria advertida se realizasse captura de tela e enviasse conteúdo para seu e-mail pessoal — declaração registrada em ata (hash: `c6aee80`). O e-mail de dispensa (hash: `9a8f2d0`) reforça esse bloqueio, ao comunicar o desligamento imediato sem qualquer instrução sobre preservação de dados. O contrato de rescisão contém cláusula expressa que orienta: *“lembre-se da confidencialidade, mesmo após a demissão”*.
+
+📌 Esses elementos demonstram que a autora foi impedida de preservar provas digitais por meios próprios, sendo a perícia judicial a única via possível. Sua negativa configura cerceamento técnico e violação ao contraditório (art. 5º, LV, CF).
+
+---
+
+### B) Ata Incompleta + Negativa de Gravação
+
+A audiência instrutória foi marcada por falas relevantes que não constam na ata, comprometendo a fidelidade do registro. O preposto da ré, João, apresentou declarações contraditórias:
+
+- Afirmou que a autora teria violado protocolos de segurança durante o treinamento, mas também declarou que ela foi aprovada e **não recebeu qualquer advertência formal**.
+- Disse que “pessoas transitavam na casa” da autora, o que **não corresponde à realidade**, já que apenas ela e seu marido residem no local, e ele trabalhava fora durante os horários de atendimento.
+
+Nenhuma dessas falas foi registrada na ata (hash: `c6aee80`), impedindo a verificação posterior. O pedido de **gravação integral da audiência foi indeferido**, sem justificativa. A autora também mencionou documentos como o contrato de rescisão (hash: `09c5b0b`), o e-mail de dispensa (hash: `9a8f2d0`), o código de conduta (hash: `1043dcb`) e o cadastro no sistema Chime (hash: `aaf1f47`), mas **nenhum deles foi referenciado na ata**, apesar de terem sido utilizados para confrontar o depoimento da ré.
+
+📌 A omissão de falas e documentos, somada à negativa de gravação, compromete o contraditório e a ampla defesa, configurando vício na instrução.
+
+---
+
+### C) Embargos Rejeitados Sem Enfrentamento
+
+Após a sentença omissa quanto à prova digital e aos pedidos específicos da inicial, a autora opôs embargos de declaração para sanar omissões concretas. Os embargos indicaram:
+
+- A ausência de enfrentamento do pedido de perícia digital;
+- A omissão quanto à conferência das horas trabalhadas via agenda interna;
+- A ausência de análise da cláusula contratual que impede acesso aos sistemas após o desligamento;
+- A falta de enfrentamento da negativa de gravação da audiência.
+
+A decisão que rejeitou os embargos foi genérica, limitando-se a afirmar que “não há omissão a ser sanada”, sem enfrentar nenhum dos tópicos indicados. Tal postura viola o art. 1.022 do CPC, que impõe ao juízo o dever de enfrentar todos os pontos relevantes para a solução da controvérsia.
+
+📌 A rejeição dos embargos sem análise dos fundamentos apresentados reforça o cerceamento de defesa e perpetua as omissões decisórias.
+
+---
+
+### Conclusão da Tese
+
+Os três cerceamentos — negativa de perícia digital, omissões na ata e rejeição dos embargos — formam um conjunto de vícios que compromete a validade da instrução e da sentença. A autora foi impedida de produzir prova por meios próprios, por via judicial e por registro oral, em violação direta ao art. 5º, LV, da Constituição Federal e aos arts. 369 e 1.022 do CPC.
+
+📌 Requer-se o reconhecimento da nulidade da sentença, com a reabertura da instrução e a produção das provas indeferidas.
+
+---
+
+## IV. CERCEAMENTO QUÁDRUPLO: A ESCALADA DE OMISSÕES
+
+A nulidade da sentença não decorre de um único vício, mas de uma sequência de omissões que se retroalimentam. A instrução foi bloqueada por três cerceamentos já demonstrados (perícia negada, ata incompleta, embargos rejeitados), e a sentença final consolidou esse cenário ao **ignorar pedidos específicos da inicial**, mesmo diante da reiteração expressa nos embargos.
+
+### A) Sentença Ignorou Pedido da Inicial
+
+A petição inicial requereu, de forma clara e fundamentada:
+
+- A produção de prova digital nos sistemas internos da ré (Chime, Moments, terminal de atendimento);
+- A conferência das horas trabalhadas via agenda interna;
+- A análise do e-mail de dispensa fora do expediente (hash: `9a8f2d0`);
+- A consideração das cláusulas contratuais que impedem acesso aos sistemas após o desligamento (ToE – hash: `6c2d1a3`).
+
+Nenhum desses pontos foi enfrentado na sentença. O juízo limitou-se a afirmar que “não há prova suficiente”, sem considerar que a própria negativa de perícia impediu a produção da prova. Essa omissão compromete a lógica decisória e viola o art. 489, §1º, IV, do CPC, que exige enfrentamento dos fundamentos relevantes à solução da controvérsia.
+
+### B) Embargos Reiteraram os Pontos Omitidos
+
+Diante da omissão da sentença, a parte autora opôs embargos de declaração, reiterando os pedidos ignorados. Os embargos foram objetivos e específicos, apontando os seguintes pontos:
+
+| Pedido Omitido na Sentença | Reiterado nos Embargos | Hash Referenciado |
+|----------------------------|-------------------------|--------------------|
+| Perícia digital            | ✅                      | `6c2d1a3`          |
+| Agenda interna             | ✅                      | `aaf1f47`          |
+| Cláusulas de bloqueio      | ✅                      | `6c2d1a3`          |
+| Pedido de gravação feito por e-mail e ignorado pela Vara | ✅ | [anexos a serem juntados] |
+
+Além desses, os embargos complementares também reiteraram **seis pedidos expressos**, todos já formulados na petição inicial:
+
+1. **Perícia digital e exibição de registros internos** – única via possível de acesso aos dados corporativos, diante das cláusulas contratuais restritivas e da impossibilidade técnica da autora em preservar provas por conta própria.
+2. **Agenda interna(Amazon Moments) e conferência das horas trabalhadas** – com logs. 
+3. **Revisão detalhada das verbas e aplicação do art. 479 da CLT** – diante da dispensa abrupta após comunicação médica, com impacto direto na remuneração e estabilidade.
+4. **Análise das contradições entre depoimento e documentos** – como o depoimento do preposto versus o Políticas VCS e corpo do e-mail de dispensa.
+5. **Inversão do ônus da prova e presunção de veracidade** – diante da hipossuficiência técnica e do controle exclusivo da ré sobre os sistemas corporativos.
+
+📌 Diante da hipossuficiência técnica da autora e da concentração probatória nas mãos da ré, requer-se a **inversão do ônus da prova**, nos termos do art. 373, §1º do CPC. A autora não possui meios próprios para acessar os registros internos, logs de atendimento, agenda digital ou comunicações corporativas. A negativa de perícia e o indeferimento da produção de prova reforçam a necessidade de presunção de veracidade dos fatos alegados, sob pena de violação ao contraditório e à ampla defesa.
+
+6. **Análise da violação à LGPD e acesso a dados** – já que a autora foi impedida de acessar seus próprios registros, contrariando o direito à autodeterminação informativa.
+
+Mesmo diante dessa reiteração clara e fundamentada, os embargos foram rejeitados sem qualquer enfrentamento dos pontos indicados. A decisão limitou-se a afirmar que “não há omissão a ser sanada”, violando o art. 1.022 do CPC e consolidando o cerceamento.
+
+📌 A escalada de omissões — da sentença aos embargos — revela um padrão de negativa de prestação jurisdicional. A autora foi silenciada em todas as instâncias de instrução e revisão, o que configura nulidade absoluta.
+
+Requer-se o reconhecimento da nulidade da sentença e da decisão dos embargos, com a reabertura da instrução e o enfrentamento dos pedidos ignorados, nos termos dos arts. 5º, XXXV e LV da Constituição Federal, 489, §1º, IV e 1.022 do CPC.
+
+### C) 3º Cerceamento: Decisão dos Embargos = Rejeição em Bloco
+
+A terceira camada de cerceamento se consolidou na decisão que rejeitou os embargos de declaração. Apesar da parte autora ter reiterado os pedidos ignorados na sentença — todos já formulados na petição inicial — o juízo rejeitou os embargos em bloco, sob o rótulo genérico de “inovação” e “preclusão”.
+
+Essa fundamentação é tecnicamente insustentável. O quadro comparativo demonstra que os embargos apontaram diversos pedidos específicos, todos já constantes dos autos. A decisão ignorou esse detalhamento e se limitou a afirmar que “não há omissão a ser sanada”, sem enfrentar nenhum dos pontos indicados.
+
+#### A Falácia da “Inovação/Preclusão”
+
+- **Revisão de verbas** ≠ inovação → já constava na inicial como “conferência das horas”.
+- **Laudos médicos** ≠ preclusão → documentos já juntados aos autos; o juízo apenas concluiu que não há nexo causal, sem enfrentar tecnicamente os documentos.
+- **Contradições do preposto** ≠ inovação → embargos confrontam depoimento com documentos existentes.
+- **Violação à LGPD** ≠ inovação → alegada na petição inicial como negativa de acesso aos dados pessoais.
+
+📌 É juridicamente inadmissível que múltiplos pedidos, todos documentados e reiterados, sejam descartados sob alegações genéricas. A ausência de análise individualizada configura violação ao art. 1.022 do CPC e ao art. 93, IX da Constituição Federal, que exigem enfrentamento específico dos fundamentos relevantes à solução da controvérsia.
+
+#### Omissões Específicas que o Quadro Comprova
+
+1. **Nexo causal entre demissão e agravamento clínico** → ignorou os laudos médicos, limitando-se a negar o nexo sem análise técnica.
+2. **Contradições entre depoimento e documentos** → ignorou o confronto entre e-mail e fala do preposto.
+3. **Revisão das verbas rescisórias** → ignorou o art. 479 da CLT e o pedido de conferência das horas.
+4. **Violação à LGPD e acesso a dados** → ignorou a negativa de acesso aos registros pessoais.
+5. **Cláusulas contratuais de bloqueio de acesso** → ignoradas como causa da hipossuficiência probatória.
+
+📌 A rejeição em bloco dos embargos, sem análise individualizada dos pedidos, configura cerceamento de defesa e negativa de prestação jurisdicional. A autora foi silenciada em todas as instâncias de instrução e revisão, o que impõe o reconhecimento da nulidade da sentença e da decisão dos embargos.
+
+Requer-se, portanto, a reabertura da instrução, com enfrentamento específico dos pedidos ignorados e produção das provas indeferidas, sob pena de perpetuação da nulidade e violação ao devido processo legal.
+
+
+### D) 4º Cerceamento: Negativa de Acesso aos Dados Digitais
+
+A quarta camada de cerceamento decorre da negativa sistemática de acesso aos dados digitais corporativos, essenciais para a comprovação da jornada, da comunicação interna e da dinâmica de desligamento. A autora requereu, desde a petição inicial, a produção de prova digital nos sistemas internos da ré — incluindo o Amazon Moments, Chime e terminal de atendimento — como única forma de demonstrar:
+
+- A jornada real praticada;
+- A comunicação sobre a cirurgia e o agravamento clínico;
+- A ausência de resposta da empresa diante de alertas médicos;
+- A incompatibilidade entre os registros internos e o depoimento do preposto.
+
+📌 A **agenda digital Amazon Moments** é a **única fonte objetiva** para aferir as horas efetivamente trabalhadas, já que a autora não tinha controle próprio de ponto. Esses dados estão sob controle exclusivo da ré, e a autora foi impedida de acessá-los após o desligamento, conforme cláusulas contratuais já juntadas aos autos.
+
+📌 A prova digital tem **dupla função**: comprovar a jornada para fins de recálculo das verbas e demonstrar a comunicação interna sobre o quadro clínico. A negativa de perícia e a ausência de qualquer medida de exibição de documentos configuram cerceamento de defesa, nos termos dos arts. 369 e 373 do CPC.
+
+📌 O cerceamento se agrava quando o juízo, além de negar o acesso à prova, **culpa a parte autora por “inovação”**, ignorando que o pedido de perícia digital e exibição dos registros já constava da petição inicial e foi reiterado nos embargos. A inversão argumentativa — que transforma a vítima da omissão em responsável pela ausência de prova — compromete a lógica decisória e viola o contraditório.
+
+Requer-se, portanto, a reabertura da instrução com produção da prova digital, acesso aos registros internos e perícia nos sistemas corporativos, sob pena de perpetuação da nulidade e violação ao devido processo legal.
+
+- **Agenda Amazon Moments**: única fonte para conferir horas reais
+- **Impossibilidade da parte**: dados sob controle exclusivo da ré
+- **Dupla função**: Recálculo de verbas + prova da comunicação cirurgia  
+- **Cerceamento final**: Nega acesso e ainda culpa a parte por "inovação"
+
+
+### E) A Escalada Revela Má-Fé Processual
+
+A sucessão de omissões — da sentença à rejeição dos embargos — revela um padrão de conduta que ultrapassa o erro técnico e configura má-fé processual. A autora foi silenciada em todas as instâncias de instrução e revisão, mesmo diante de pedidos objetivos, específicos e documentados.
+
+- A sentença ignorou pedidos expressos da petição inicial, sem deferir, indeferir ou justificar.
+- Os embargos de declaração apontaram omissões claras, com base documental, e foram rejeitados em bloco sob alegações genéricas de “inovação” e “preclusão”.
+- A decisão dos embargos não enfrentou nenhum dos fundamentos relevantes, violando o art. 1.022 do CPC e o art. 93, IX da Constituição Federal.
+- A negativa de acesso aos dados digitais, somada à recusa de perícia, impediu a produção de prova essencial, invertendo indevidamente o ônus da prova.
+
+📌 A escalada revela não apenas cerceamento de defesa, mas também uma conduta incompatível com os princípios da boa-fé, da imparcialidade e da prestação jurisdicional efetiva. A autora foi colocada em posição de absoluta vulnerabilidade, sem acesso à prova, sem enfrentamento dos pedidos e sem qualquer resposta jurisdicional legítima.
+
+Requer-se o reconhecimento da nulidade da sentença e da decisão dos embargos, com a reabertura da instrução, produção da prova digital e enfrentamento específico dos pedidos ignorados, sob pena de perpetuação da nulidade e violação ao devido processo legal.
+
+---
+
+## V. CONTRADIÇÃO DEVASTADORA: VCS Policies vs. João Zara + Agenda Interna
+
+### A Prova que o Juízo Recusa-se a Ver
+
+A contradição entre o depoimento do preposto e os documentos internos da própria reclamada é objetiva, verificável e devastadora. A autora apresentou, na réplica, as **VCS Policies da Amazon**, que descrevem com clareza o protocolo oficial para registro de ausências médicas:
+
+#### PROVA DOCUMENTAL Doc. 07 – Políticas VCS - 090075b
+
+1. **1º passo**: O gestor deve ser informado da ausência **antes** de ela ocorrer.
+2. **2º passo**: O gestor **autoriza** o lançamento da ausência na **Amazon Moments** (agenda interna).
+3. **3º passo**: **Após** o evento, o funcionário lança o ticket no **AtoZ**, anexando o atestado.
+
+Esse fluxo comprova que a comunicação prévia é obrigatória e que o sistema AtoZ **não é o ponto de partida**, mas sim o registro final. A ausência só pode ser lançada no AtoZ **após** o lançamento na agenda interna.
+
+#### DEPOIMENTO ORAL (João Zara – Preposto)
+
+O preposto afirmou que “tudo começa pelo AtoZ”, invertendo completamente os procedimentos oficiais da Amazon. Essa afirmação contradiz frontalmente as políticas internas da própria reclamada e ignora o papel da agenda Amazon Moments como registro primário da ausência.
+
+📌 A contradição entre o depoimento oral e os documentos internos é inequívoca. O preposto **mentiu** sobre o fluxo de comunicação, e essa mentira só pode ser desmascarada com acesso à agenda interna — prova que o juízo **recusou-se a permitir**, sob o falso pretexto de “inovação” e “preclusão”.
+
+#### A Agenda Interna Provaria Tudo
+
+- A **Amazon Moments** registra os lançamentos de ausência com data e hora, comprovando a comunicação prévia da autora sobre sua cirurgia.
+- O **terminal de atendimento** registra trabalho fora do expediente — como o e-mail enviado no domingo à noite — evidenciando jornada excessiva e falta de suporte.
+- O depoimento do preposto é incompatível com os registros internos, e o juízo **negou acesso à prova decisiva**, impedindo a verificação da verdade.
+
+#### Cerceamento Sistêmico
+
+- A petição inicial **requereu expressamente** a produção da prova digital.
+- A sentença **omitiu completamente** esse pedido.
+- Os embargos **reiteraram o pedido**, com base documental.
+- A decisão dos embargos **rejeitou em bloco**, alegando “inovação”.
+
+📌 Essa alegação é **falsa**. O pedido de acesso à agenda interna consta da petição inicial e foi reiterado nos embargos. A recusa em deferir a prova, somada à inversão da lógica processual, configura **cerceamento sistêmico** e **má-fé processual evidente**.
+
+Requer-se, portanto, o reconhecimento da nulidade da sentença e da decisão dos embargos, com a reabertura da instrução e a produção da prova digital, especialmente os registros da agenda Amazon Moments e do terminal de atendimento, sob pena de perpetuação da omissão e violação ao devido processo legal.
+
+---
+
+## VI. NULIDADE ABSOLUTA DA SENTENÇA – O JUÍZO ASSUMIU A DEFESA DA AMAZON
+
+### A Fundamentação Absurda dos Embargos
+
+A decisão que rejeitou os embargos de declaração não apenas ignorou os fundamentos apresentados pela autora, como também **criou uma tese defensiva que sequer foi sustentada pela reclamada**. Trata-se de uma violação direta ao princípio do contraditório (art. 10 do CPC), que proíbe o juiz de decidir com base em argumentos não debatidos pelas partes.
+
+#### O que a Amazon alegou:
+- A ré afirmou que **não sabia da cirurgia**.
+- Alegou que a autora não teria informado previamente e que não havia qualquer relação entre o desligamento e o quadro clínico.
+
+#### O que o juízo decidiu:
+- A sentença afirma que **“saber da cirurgia não gera presunção de discriminação”**.
+- Ou seja, **pressupõe que a empresa sabia**, mas nega qualquer relevância jurídica ao fato.
+
+📌 Essa tese **não foi sustentada pela ré**. O juízo **criou uma linha de defesa autônoma**, contraditória com os próprios argumentos da reclamada, e usou essa construção para justificar a omissão na análise dos laudos médicos, da comunicação interna e da agenda digital.
+
+---
+
+### O Juízo Atuou como Parte – Violação ao Contraditório e Decisão Ultra Petita
+
+- O juízo **decidiu com base em tese não debatida**, violando o art. 10 do CPC.
+- A fundamentação é **ultra petita em favor da reclamada**, pois extrapola os limites da defesa apresentada.
+- A autora foi duplamente prejudicada: pela omissão dos pedidos e pela criação de uma tese que **não pôde sequer impugnar**, por não ter sido apresentada pela parte adversa.
+- A conduta revela **parcialidade estrutural**, pois o juízo atuou como **intérprete e defensor da tese da ré**, mesmo diante de contradições documentais evidentes.
+
+---
+
+### Negativa de Prestação Jurisdicional (Art. 93, IX, CF)
+
+A sentença incorre em nulidade absoluta por negativa de prestação jurisdicional. Diversos pedidos expressos foram ignorados, sem qualquer deferimento, indeferimento ou fundamentação. A decisão não enfrentou os elementos essenciais à solução da controvérsia, violando o dever constitucional de motivação das decisões judiciais.
+
+#### Pontos NÃO analisados pela sentença:
+
+1. **Nexo causal entre demissão e agravamento clínico**  
+   - Laudos médicos com CID F43.1 e F32.2 foram ignorados. O juízo concluiu que “não há nexo” sem qualquer análise técnica dos documentos.
+
+2. **Art. 479 da CLT – Rescisão antecipada**  
+   - A autora foi dispensada com 31 dias remanescentes de contrato. O pedido de aplicação do art. 479 foi ignorado, sem qualquer enfrentamento.
+
+3. **Súmula 443 do TST – Presunção de discriminação**  
+   - A dispensa ocorreu dois dias após a comunicação da cirurgia. O juízo ignorou a presunção legal, sem justificar a dispensa em contexto clínico.
+
+4. **Inversão do ônus da prova – Hipossuficiência técnica**  
+   - A autora não tinha acesso aos dados digitais. O pedido de inversão, com base no art. 373, §1º do CPC, foi ignorado.
+
+5. **Contradições do preposto – Documentos vs. depoimentos**  
+   - O depoimento de João Zara contradiz os documentos internos (email de domingo, VCS Policies). O juízo não confrontou as versões.
+
+6. **Violação à LGPD – Monitoramento sem consentimento**  
+   - A autora foi monitorada digitalmente sem consentimento, e teve acesso negado aos próprios dados. O juízo ignorou o pedido de análise da violação.
+
+7. **VCS Policies – Procedimentos internos da Amazon**  
+   - Juntadas pela própria ré, as políticas contradizem o depoimento do preposto. O juízo ignorou completamente esse documento.
+
+---
+
+### Fundamentação Deficiente (Art. 489, §1º, CPC)
+
+A sentença também incorre em nulidade por fundamentação deficiente. Nos termos do art. 489, §1º do CPC, não se considera fundamentada a decisão que:
+
+- **Se baseia exclusivamente em depoimento oral**, ignorando prova documental robusta.
+- **Não confronta contradições evidentes** entre documentos e depoimentos.
+- **Omitiu análise do Terms of Employment**, documento essencial para aferição da jornada e das obrigações contratuais.
+- **Ignorou os embargos de declaração**, rejeitando-os em bloco sem enfrentar os fundamentos relevantes.
+
+📌 A soma dessas omissões configura nulidade absoluta, pois compromete a coerência, a completude e a legitimidade da prestação jurisdicional. A atuação do juízo extrapolou os limites da imparcialidade e comprometeu a integridade do processo.
+
+Requer-se, portanto, o reconhecimento da nulidade da sentença e da decisão dos embargos, com reabertura da instrução e enfrentamento específico dos pedidos ignorados, sob pena de perpetuação da omissão e violação ao devido processo legal.
+
+
+---
+
+## VII. DISPENSA DISCRIMINATÓRIA (MÉRITO – SUBSIDIÁRIO)
+
+### Depoimento Pessoal – O Trauma Não Começou em 60 Dias
+
+📌 A autora jamais havia sido atendida por psiquiatra em toda sua vida. O primeiro contato com atendimento psiquiátrico ocorreu **após a dispensa**, com prescrição de **Sertralina em dose máxima (4 comprimidos/dia)**. Isso não é coincidência — é consequência direta.
+
+📌 A jornada na Amazon começou no início do ano, e não se resume aos 60 dias finais. Desde o início, houve sobrecarga, invisibilidade e ausência de suporte. A dispensa foi o **ponto de ruptura**, não o início do sofrimento.
+
+📌 Após a audiência una, marcada por omissões e informalidade, a autora sofreu **crise aguda de ansiedade**, sendo atendida pela NotreDame em regime telepresencial. O episódio foi comunicado aos patronos, e está documentado com print do celular e receita médica.
+
+📌 A sensação de abandono jurídico, a postura passiva dos antigos advogados, a ausência de escuta e a mentira institucionalizada da reclamada geraram um colapso emocional legítimo. A autora estava sem amparo do INSS, sem respaldo da empresa e sem proteção técnica efetiva.
+
+📌 O processo não apenas ignorou o sofrimento — ele **amplificou**. E isso precisa ser reconhecido pelo TRT como parte da violência institucional que este recurso busca reparar.
+
+
+### Caso não se reconheça a nulidade
+
+Ainda que não se reconheça a nulidade absoluta da sentença, o mérito revela uma dispensa discriminatória evidente, amparada por prova documental, cronologia inequívoca e presunção legal. A autora foi desligada dois dias após comunicar cirurgia de urgência, sem qualquer advertência, contraditório ou justificativa formal.
+
+---
+
+### Cronologia da Discriminação
+
+- **09/07**: Comunicação da cirurgia à liderança direta, conforme protocolo descrito nas VCS Policies (Doc. 07, hash 090075b).
+- **11/07**: Dispensa sem qualquer advertência prévia, contraditório ou justificativa formal.
+- **Nexo temporal direto** entre o aviso clínico e o desligamento.
+
+📌 A comunicação prévia foi feita corretamente, como exigem os procedimentos internos da Amazon. A dispensa ocorreu em sequência imediata, sem qualquer motivação legítima.
+
+---
+
+### Fundamentação Legal
+
+- **Lei 9.029/95**: Veda práticas discriminatórias para fins de admissão ou manutenção do emprego.
+- **Súmula 443 do TST**: Presume-se discriminatória a dispensa de empregado portador de doença grave, salvo prova em contrário.
+- **Art. 7º, I da CF**: Garante proteção contra despedida arbitrária ou sem justa causa.
+
+📌 A reclamada não apresentou qualquer justificativa técnica, médica ou disciplinar para a dispensa. A presunção legal de discriminação **não foi afastada**.
+
+---
+
+### Prova do Nexo
+
+- **Laudos médicos** comprovam agravamento clínico imediato após a demissão, com CID F43.1 e F32.2.
+- **Comunicação prévia** está registrada e documentada, conforme VCS Policies e email interno.
+- **Ausência total de justificativa** para a dispensa, mesmo diante de quadro clínico grave e contrato vigente.
+
+📌 A dispensa não foi precedida de advertência, avaliação de desempenho negativa ou qualquer ato que justificasse o desligamento. O contexto clínico e a cronologia dos fatos configuram discriminação direta.
+
+### Fato Superveniente – Crise Pós-Audiência e Postura dos Antigos Patronos
+
+📌 O atendimento médico ocorreu **um dia após a audiência una**, evidenciando o impacto emocional não apenas da condução judicial, mas também da **postura dos antigos patronos**, em especial o advogado Stefano. A autora, já fragilizada pela dispensa em contexto de doença, foi submetida a um ambiente hostil, informal e desprovido de garantias mínimas de escuta e respeito.
+
+📌 Após a audiência, Stefano demonstrou **omissões graves**: não garantiu a palavra da autora, não sustentou com firmeza a inversão do ônus da prova, não apresentou informações corretas sobre os documentos juntados, e dificultou o acesso da autora aos próprios anexos e provas. Tudo isso está documentado em **conversas de WhatsApp**, que comprovam a insegurança gerada pela atuação patronal.
+
+📌 O episódio clínico foi atendido em regime **telepresencial pela NotreDame**, com emissão de **receita médica** e registro documental (print do celular), e foi **comunicado aos patronos**. O fato é superveniente (art. 493 do CPC) e reforça os pedidos de **reconhecimento da dispensa discriminatória**, **condenação em danos morais** e **nulidade da sentença por cerceamento e negativa de prestação jurisdicional**.
+
+
+---
+
+### Requerimento Subsidiário
+
+Requer-se, caso não reconhecida a nulidade da sentença:
+
+- O **reconhecimento da dispensa discriminatória**, com base na Súmula 443 do TST.
+- A **reintegração da autora** ou, alternativamente, **indenização substitutiva**, conforme jurisprudência consolidada.
+- A **condenação em danos morais**, diante da violação à dignidade da trabalhadora e ao princípio da não discriminação.
+
+
+---
+
+## VIII. PEDIDOS
+
+### PRINCIPAIS (Nulidade e Cerceamento)
+1. **Nulidade absoluta da sentença** por cerceamento de defesa quádruplo
+2. **Reconhecimento do erro na rejeição do ToE** como "inovação" nos embargos (Súmula 8 STJ)
+3. **Juntada definitiva do ToE ao RO** com efeitos retroativos (art. 1.007, §4º + 1.023, CPC)
+4. **Retorno dos autos à origem** para nova instrução obrigatória  
+5. **Perícia digital compulsória** com acesso a logs, emails, registros e Amazon Moments
+6. **Juntada da gravação integral** da audiência una
+7. **Inversão do ônus da prova** para a reclamada
+
+### SUBSIDIÁRIOS (Caso não se reconheça nulidade)  
+6. **Reconhecimento da dispensa discriminatória** (Súmula 443/TST)
+7. **Deferimento do acesso à agenda interna Amazon Moments** (pedido originário omitido)
+8. **Recálculo de verbas** com horas extras e adicional noturno (trabalho fora expediente)  
+9. **Condenação em danos morais** (mínimo R$ 30.000,00)
+10. **Aplicação do art. 479, CLT** (rescisão antecipada - 31 dias)
+11. **Exibição compulsória** de logs, emails e registros internos da Amazon
+
+### PROCESSUAIS
+11. **Concessão da justiça gratuita** com isenção total de sucumbência  
+12. **Expedição de ofícios** para preservação de dados digitais
+13. **Comunicação ao MPT** sobre violações coletivas à LGPD
+14. **Aplicação de multa** por litigância de má-fé (contradições do preposto)
+15. **Pedido de preservação urgente de prova digital**, com expedição de ofício à reclamada para que preserve integralmente os seguintes elementos:
+   - Logs de acesso da autora aos sistemas internos (incluindo VCS, Amazon Moments, e e-mails corporativos)
+   - Registros de jornada e movimentações internas
+   - Histórico de interações com lideranças e RH
+   - Emails trocados entre gestores e RH sobre a autora
+   - Dados de monitoramento digital realizados sem consentimento
+
+📌 A preservação imediata é essencial para garantir a integridade da instrução, diante da natureza volátil dos dados digitais e da possibilidade de apagamento unilateral. O pedido encontra amparo no art. 373, §1º do CPC (inversão do ônus da prova), na LGPD (Lei 13.709/18) e no princípio da verdade real.
+
+---
+## IX. FUNDAMENTAÇÃO ESPECÍFICA – JUSTIÇA GRATUITA
+
+### Hipossuficiência Comprovada
+
+A autora encontra-se em situação de **desemprego**, sem qualquer fonte de renda regular desde a dispensa ocorrida em 11/07. O desligamento ocorreu em contexto de adoecimento psíquico, com prescrição de **Sertralina em dose máxima (4 comprimidos/dia)**, conforme laudos médicos e receitas juntadas aos autos.
+
+📌 As despesas médicas decorrentes do quadro psiquiátrico são contínuas e incompatíveis com qualquer possibilidade de custeio de perícia particular ou produção autônoma de prova técnica. A autora não possui recursos para contratar assistente técnico, perito particular ou realizar diligências digitais.
+
+📌 Além disso, os dados essenciais à instrução — como logs de acesso, e-mails corporativos, registros internos e interações no sistema Amazon Moments — estão sob **controle exclusivo da reclamada**, que bloqueou o acesso da autora imediatamente após a dispensa. A autora não possui qualquer meio de recuperar ou preservar essas evidências por conta própria.
+
+📌 A hipossuficiência econômica e técnica está demonstrada nos autos e reforçada pela própria estrutura do processo, que revela uma **desigualdade processual evidente** entre uma multinacional com aparato jurídico robusto e uma trabalhadora desempregada, adoecida e sem acesso aos próprios dados.
+
+---
+
+### Impossibilidade de Produzir Provas
+
+A autora está **materialmente impedida de produzir prova técnica**, diante do monopólio informacional da reclamada. A Amazon detém controle exclusivo sobre:
+
+- **Logs de acesso** aos sistemas internos
+- **E-mails corporativos** trocados entre lideranças e RH
+- **Gravações da audiência una**
+- **Histórico de interações** no Amazon Moments
+- **Registros de jornada e movimentações internas**
+
+📌 Após a dispensa, a autora foi **bloqueada digitalmente**, sem acesso aos próprios dados, documentos ou sistemas. As cláusulas do **Terms of Employment** impedem a preservação autônoma de evidências, e a autora sequer teve acesso pleno aos documentos juntados pela reclamada.
+
+📌 A desigualdade processual é flagrante: uma multinacional com controle absoluto da prova digital, contra uma trabalhadora desempregada, adoecida e sem respaldo técnico. A inversão do ônus da prova é medida necessária e urgente, nos termos do **art. 373, §1º do CPC**, para garantir a paridade de armas e a efetividade da prestação jurisdicional.
+
+📌 Requer-se, portanto, a **concessão da justiça gratuita**, com isenção total de custas e honorários, bem como a **preservação urgente da prova digital**, mediante expedição de ofícios à reclamada e ao provedor de e-mail corporativo, para garantir a integridade da instrução.
+
+
+
+## IX. FUNDAMENTAÇÃO ESPECÍFICA - JUSTIÇA GRATUITA
+
+### Hipossuficiência Comprovada
+**[SEÇÃO PARA VOCÊ DESENVOLVER]**
+- Situação atual de desemprego
+- Despesas médicas decorrentes do quadro psiquiátrico
+- Impossibilidade de custear perícia particular
+- Dados sigilosos sob controle exclusivo da reclamada
+
+### Impossibilidade de Produzir Provas
+**[ARGUMENTO CENTRAL]**
+- **Amazon controla**: logs, emails, gravações, sistemas internos
+- **Recorrente bloqueada**: acesso cortado imediatamente após demissão
+- **Terms of Employment**: cláusulas impedem preservação de evidências
+- **Desigualdade processual**: multinacional vs. trabalhadora desempregada
+
+### Não Pode Ser Penalizada por Buscar Direitos
+**[DESENVOLVER AQUI]**
+- Art. 5º, XXXV, CF: direito de ação
+- Impossível produzir prova de dados sigilosos
+- Sucumbência seria bis in idem (punição dupla)
+- **Requer isenção total, inclusive em caso de improcedência**
+
+---
+
+## X. REQUERIMENTOS FINAIS
+
+Diante do exposto, requer:
+
+**CONHECIMENTO** do presente recurso, por ser tempestivo, regular e devidamente fundamentado;
+
+**CONCESSÃO** da justiça gratuita, com isenção total de custas, honorários e eventuais despesas processuais, inclusive em caso de improcedência, nos termos do art. 5º, LXXIV da CF e jurisprudência consolidada do TST;
+
+**PROVIMENTO TOTAL** para:
+
+- Declarar a **nulidade absoluta da sentença**, por cerceamento de defesa, negativa de prestação jurisdicional e fundamentação deficiente;
+- Determinar o **retorno dos autos à origem**, com reabertura da instrução, produção de prova técnica e enfrentamento específico dos pedidos ignorados;
+- Reconhecer a **dispensa discriminatória**, com condenação da reclamada nos termos da Súmula 443 do TST, e todos os consectários legais, inclusive danos morais e reintegração ou indenização substitutiva;
+
+**SUBSIDIARIAMENTE**, caso não reconhecida a nulidade, requer o **provimento parcial** para:
+
+- Reconhecimento da dispensa discriminatória;
+- Condenação da reclamada ao pagamento de indenização por danos morais (mínimo de R$ 30.000,00);
+- Aplicação do art. 479 da CLT, com pagamento proporcional ao tempo remanescente de contrato;
+- Exibição compulsória de provas digitais sob controle exclusivo da reclamada;
+- Expedição de ofícios para preservação urgente de dados e comunicação ao MPT sobre violações coletivas à LGPD.
+
+📌 A autora reafirma que este recurso não busca apenas reparação individual, mas a restauração da integridade processual, da escuta legítima e da dignidade violada. Que este Tribunal seja espaço de verdade, enfrentamento técnico e reparação institucional.
+
+Termos em que,  
+**Pede deferimento.**
+
+São Paulo, ___ de setembro de 2025.
+
+**DEBORAH EL ALAM SBEGHEN**  
+Recorrente – *jus postulandi*  
+CPF: 036.276.056-08  
+E-mail: deborahsbeghen@gmail.com  
+Tel.: (11) 98497-7234
+
+
+---
+
+## 📋 SEÇÕES PARA VOCÊ COMPLETAR:
+
+### 🎯 **PRIORITÁRIAS** (Argumentos mais fortes):
+1. **Seção IV**: Contradição VCS Policies vs João Zara *(argumento devastador)*
+2. **Seção V**: Juízo criou defesa para Amazon *(prova de parcialidade)*
+3. **Seção IX**: Justiça gratuita + impossibilidade de provas *(estratégico)*
+
+### ⚖️ **SECUNDÁRIAS** (Reforço):
+4. **Seção III**: Desenvolver cada tipo de cerceamento
+5. **Seção VI**: Listar todas as omissões da sentença  
+6. **Seção VII**: Nexo temporal da discriminação
+
+### 📎 **ANEXOS OBRIGATÓRIOS**:
+- Petição revogação 22/09/2025
+- WhatsApp com Dr. Rubens  
+- Embargos de Declaração Complementares
+- Email demissão (João Zara)
+- Laudos médicos
+- Documentos que comprovem hipossuficiência
+
+**FOQUE nas seções prioritárias - são os argumentos que podem ganhar o caso!**
