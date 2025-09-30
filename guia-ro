@@ -61,59 +61,95 @@ são# 🎯 RECURSO ORDINÁRIO - VERSÃO FINAL ESTRUTURADA
 
 ## IV. CERCEAMENTO QUÁDRUPLO: A ESCALADA DE OMISSÕES
 
-### A) 1º Cerceamento: Sentença Omitiu Pedido da Inicial 
-**[DESENVOLVER AQUI]**
-- **Stefano pediu**: "conferência das horas trabalhadas via agenda interna" 
-- **Sentença**: passou reto, nem deferiu nem indeferiu
-- **Email domingo à noite**: comprova trabalho fora expediente (prova documental)
-- **Art. 489, §1º, CPC**: sentença deve enfrentar todos os pedidos
+### A) 1º Cerceamento: Sentença Omitiu Pedido da Inicial
 
-### B) 2º Cerceamento: Embargos Reiteraram MÚLTIPLOS Pedidos Omitidos
-**[DESENVOLVER AQUI - USAR O QUADRO COMO PROVA]**
+- **Petição Inicial**: ID 4874bdf, protocolada em 30/04/2025  
+- **Folha 14**: consta o pedido de “conferência das horas trabalhadas via agenda interna (Amazon Moments)”  
+- **Finalidade expressa**: verificar verbas rescisórias e jornada efetiva  
+- **Sentença**: não deferiu, não indeferiu, não mencionou  
+- **Prova documental**: email enviado pela autora em domingo à noite, comprova trabalho fora do expediente  
+- **Base legal ignorada**: art. 489, §1º, IV do CPC
 
-#### Pedidos EXPRESSOS nos Embargos (conforme quadro comparativo anexo):
-1. **"Revisão detalhada das verbas e aplicação do art. 479 CLT"**
-2. **"Análise dos laudos médicos, vínculo entre demissão e agravamento clínico"**
-3. **"Perícia digital e exibição de registros internos"**
-4. **"Análise da violação à LGPD e acesso a dados"**
-5. **"Inversão do ônus da prova e presunção de veracidade"**
-6. **"Análise das contradições entre depoimento e documentos"**
+---
 
-#### Especificamente sobre RECÁLCULO (prova documental):
-- **Email domingo à noite**: Comprova trabalho fora do expediente
-- **30 primeiros dias**: Período de pressão com horas extras
-- **Embargos pediram**: "revisão detalhada das verbas"
-- **Base na inicial**: Stefano já havia solicitado "conferência das horas"
+### B) 2º Cerceamento: Embargos Reiteraram Múltiplos Pedidos Omitidos
+
+- **Embargos Complementares**: juntados em 27/06/2025  
+- **Folha 430**: documento assinado por Rubens Pereira  
+- **Pedidos expressos reiterados**:
+  1. Revisão detalhada das verbas (art. 479 da CLT)
+  2. Análise dos laudos médicos (CID 43.1 e 32.2)
+  3. Perícia digital e exibição de registros internos
+  4. Análise da violação à LGPD
+  5. Inversão do ônus da prova
+  6. Contradições entre depoimento e documentos
+
+- **Prova documental**: email domingo à noite (juntado aos autos)
+- **Quadro comparativo**: embargos trazem 12 pedidos específicos
+- **Base na inicial**: pedido de conferência das horas já constava (fl. 14)
+
+---
+
+### IV.B.1 – Dos Fatos Alegados na Inicial e Omissões Técnicas
+
+- **Folhas relevantes da inicial**: 7, 12, 14  
+- **Fatos alegados**:
+  - Dispensa abrupta às vésperas de cirurgia
+  - Privação financeira e impossibilidade de recorrer ao INSS
+  - Gastos com estrutura remota e instrução processual
+  - Falhas no sistema da Vara e ausência de suporte da reclamada
+  - Ausência de advogado constituído à época
+  - Laudos médicos: CID 43.1 (TEPT) e CID 32.2 (depressão grave)
+  - Pedido expresso de condenação por danos morais e psicológicos
+
+---
 
 ### B.2 – Cerceamento nos Embargos
 
-Conforme os **Embargos Complementares** (hash `624fa3d`, fls. 430), a autora foi dispensada com 31 dias remanescentes de contrato por prazo determinado. O cálculo da indenização, com base no art. 479 da CLT, resulta em R$ 1.647,19, considerando salário, benefício alimentação e auxílio internet.
+- **Embargos Complementares**: fl. 430, hash `624fa3d`  
+- **Cálculo da indenização (art. 479 CLT)**:
+  - Salário proporcional: R$ 1.085,00
+  - Alelo: R$ 500,19
+  - Internet: R$ 62,00
+  - **Total**: R$ 1.647,19
 
-Os embargos também trazem os valores comprovados por notas fiscais (hash `e3b7d2a`, pág. 4), totalizando R$ 1.015,50 em gastos com estrutura remota e instrução processual. A autora **não pleiteia valores estimados**, apenas os **documentalmente comprovados**.
+- **Notas fiscais juntadas**: pág. 4 dos embargos, hash `e3b7d2a`  
+- **Valor comprovado**: R$ 1.015,50  
+- **Itens**: MDF, lã de vidro, iluminação, impressão, transporte  
+- **Petição Inicial**: já mencionava os gastos com estrutura (fl. 12)  
+- **Alegação de inovação**: infundada, documentos já nos autos
 
-A petição inicial já mencionava tais despesas (ATsum, fls. 12), e os embargos apenas complementaram com prova legítima. A alegação de inovação é, portanto, infundada.
 
-<!-- revisar: inserir trecho sobre negativa de prestação jurisdicional -->
+### IV.C – Fundamentação Jurídica dos Pedidos
 
+A sentença indeferiu todos os pedidos sob o rótulo genérico de “falta de prova”, sem enfrentar os documentos juntados, os pedidos de produção de prova, nem os embargos que reiteraram os pontos ignorados.
 
-### C) 3º Cerceamento: Decisão dos Embargos = Rejeição em Bloco  
-**[DESENVOLVER AQUI - USAR O QUADRO COMO DEVASTAÇÃO]**  
+Isso configura cerceamento de defesa por indeferimento genérico, violando:
 
-#### A Mentira da "Inovação/Preclusão":
-- **QUADRO COMPARATIVO anexo** comprova: 12 pedidos ESPECÍFICOS nos embargos
-- **Juízo rejeitou TUDO** sob rótulo genérico: "inovação, precluso"
-- **MENTIRA COMPROVADA**: 
-  - Revisão de verbas ≠ inovação (Stefano pediu na inicial)
-  - Laudos médicos ≠ preclusão (já estavam nos autos)
-  - Contradições do preposto ≠ inovação (documentos vs. depoimentos)
+- **Art. 489, §1º, IV do CPC** – fundamentação insuficiente (não enfrentou os pedidos individualmente)
+- **Art. 369 do CPC** – direito à produção de prova (perícia digital, exibição de registros, conferência de jornada)
+- **Art. 5º, LV da CF** – ampla defesa e contraditório (negativa de gravação, rejeição de embargos sem análise)
+- **Art. 1.022 do CPC** – dever de sanar omissões nos embargos (rejeição em bloco sem enfrentamento)
 
-#### Omissões ESPECÍFICAS que o Quadro Comprova:
-1. **Nexo causal demissão x saúde** → Ignorou laudos médicos
-2. **Contradições do preposto** → Ignorou email vs. depoimento  
-3. **Revisão de verbas rescisórias** → Não revisou, ignorou art. 479 CLT
-4. **LGPD / dados pessoais** → Ignorou violação evidente
-5. **Comunicação prévia e boa-fé** → Negou benefício da dúvida
-6. **Email João Zara x depoimento** → Ignorou contradição documental
+O RO substitutivo formaliza os pedidos já alegados na inicial e nos embargos, corrige omissões técnicas e reivindica a produção de prova indevidamente negada.
+
+A negativa genérica da sentença não supre o dever constitucional de fundamentação, tampouco afasta o direito da parte à escuta judicial efetiva.
+
+## V. PEDIDOS DO RO × FUNDAMENTAÇÃO
+
+| Pedido | Fato Alegado | Prova nos Autos | Base Legal | Omissão da Sentença |
+|--------|--------------|-----------------|------------|----------------------|
+| Conferência das horas | Dispensa sem cálculo | Inicial fl. 14 + email domingo | Art. 373, §1º CPC | Ignorado |
+| Indenização art. 479 CLT | Contrato por prazo determinado | Embargos fl. 430 | Art. 479 CLT | Ignorado |
+| Danos morais e psicológicos | Dispensa às vésperas da cirurgia | Inicial fl. 12 + Docs 11/12 | Súmula 443 TST | Ignorado |
+| Justiça gratuita | Desemprego + adoecimento | Inicial fl. 14 + embargos | Art. 5º, LXXIV CF + art. 790 CLT | Ignorado |
+| Ressarcimento estrutura remota | Gastos com ambiente de trabalho | Inicial fl. 12 + notas fiscais | Art. 884 CC + art. 75-D CLT | Ignorado |
+| Perícia digital | Bloqueio de acesso aos dados | Email João Zara + embargos | Art. 369 CPC + LGPD | Indeferido |
+| Exibição de registros internos | Logs, emails, Amazon Moments | Embargos + pedido inicial | Art. 396 CPC | Ignorado |
+| Preservação de prova digital | Risco de apagamento unilateral | Pedido inicial + embargos | Art. 373, §1º CPC | Ignorado |
+| Contradições do preposto | Email × depoimento | Docs + audiência | Art. 5º, LV CF | Ignorado |
+| Provas emprestadas | Decisões anteriores contra Amazon | Inicial fl. 25 | Art. 372 CPC | Ignorado |
+
 
 #### Fundamentação Genérica = Má-Fé Processual:
 - **Impossível** que 12 pedidos diferentes sejam todos "inovação"
@@ -307,6 +343,29 @@ Revisão 1 -
 📌 Você pode dizer no RO:
 
 “O cálculo da indenização por rescisão antecipada está apresentado nos Embargos Complementares (Fls. 430, hash 624fa3d), mas não foi formalizado como pedido numerado pelo patrono anterior. A autora, portanto, corrige essa omissão técnica e requer expressamente o pagamento da indenização prevista no art. 479 da CLT, no valor de R$ 1.647,19.”
+
+
+REVISÃO 1 – COMPARATIVO INICIAL × RO
+🔎 Fatos e pedidos presentes na Petição Inicial (ID: 4874bdf)
+Tema	Consta na Inicial?	Folha	Observação
+Conferência das horas via Amazon Moments	✅	14	Pedido expresso, ignorado pela sentença
+Privação financeira / verbas faltantes	✅ (como fato)	12	Sem pedido formal, mas alegado como prejuízo
+Estrutura remota / gastos com trabalho	✅ (como fato)	12	Sem valores, mas alegado como ônus pessoal
+Dispensa discriminatória	✅	12	Com cronologia e CID médicos
+Danos morais e psicológicos	✅	12	Pedido formalizado
+Impossibilidade de recorrer ao INSS	✅	12	Reforça hipossuficiência
+Justiça gratuita	✅	14	Declarada vulnerabilidade e ausência de advogado
+Provas emprestadas / padrão institucional	✅	25	Ignorado pela sentença
+Pedido de perícia digital	✅	14	Vinculado à agenda interna e bloqueio de acesso
+Pedido de preservação de prova digital	✅	14	Vinculado à LGPD e logs internos
+🧩 Conclusão
+Todos os pedidos e fatos centrais do RO já estavam na Petição Inicial, ainda que alguns não tenham sido numerados ou formalizados.
+
+O RO substitutivo corrige omissões técnicas, não inova.
+
+A sentença ignorou pedidos expressos e fatos relevantes, configurando cerceamento.
+
+A Revisão 1 está documentada, rastreável e pronta para ser usada como base da fundamentação jurídica.
 
 
 **FOQUE nas seções prioritárias - são os argumentos que podem ganhar o caso!**
