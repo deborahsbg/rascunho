@@ -17,7 +17,7 @@
 
 ### Justiça Gratuita e Isenção de Sucumbência
 
-A recorrente é hipossuficiente, conforme demonstrado nos autos por meio de laudos médicos psiquiátricos (hashes: `be6e42d`, `8e081a7`), da declaração de Imposto de Renda que comprova ausência de rendimentos tributáveis (hash: `3b7f4e9`), e do documento “Terms of Employment” (hash: `6c2d1a3`), que contém cláusulas restritivas quanto ao uso de sistemas da ré. Soma-se a isso o e-mail de dispensa enviado pela recorrida em 11/07/2024, dois dias após comunicação formal de cirurgia, revelando dispensa abrupta e sem justificativa (hash: `9a8f2d0`).
+ A recorrente é hipossuficiente, conforme demonstrado nos autos por meio de laudos médicos psiquiátricos – Doc. 08 e Doc. 11, juntados pela autora em 30/04/2025 (hashes be6e42d, 8e081a7), da declaração de Imposto de Renda que comprova ausência de rendimentos tributáveis – Doc. declaração IR, juntada pela autora em 27/06/2025 (hash c7ab93a), e do contrato de trabalho Deborah – juntado pela autora em 27/06/2025 (hash 9548f87), que contém cláusulas restritivas quanto ao uso de sistemas da ré. Soma-se a isso o e-mail de dispensa enviado pela recorrida em 11/07/2024 – Doc. email de demissão, juntado pela autora em 27/06/2025 (hash 79a40aa), dois dias após comunicação formal de cirurgia, revelando dispensa abrupta e sem justificativa.
 
 A impossibilidade de produzir provas decorre do controle exclusivo da ré sobre os dados relevantes, como registros internos, logs de acesso e comunicações corporativas. Nos termos do art. 5º, LXXIV, da Constituição Federal, da Lei 1.060/50 e do art. 98, §1º, incisos I e VI, do CPC, requer-se a concessão da justiça gratuita, com isenção total de custas, honorários periciais e honorários advocatícios.
 
@@ -37,9 +37,9 @@ A jurisprudência do Tribunal Superior do Trabalho é pacífica quanto à inapli
 
 A presente demanda decorre de uma dispensa abrupta ocorrida em 11/07/2024, apenas dois dias após a autora comunicar formalmente à empresa a necessidade de afastamento médico para realização de cirurgia (09/07/2024). Em 14/07/2024, a autora recebeu o contrato de rescisão, que continha cláusula expressa de confidencialidade pós-demissão, sem qualquer orientação sobre preservação de dados ou acesso aos sistemas corporativos.
 
-Durante a audiência instrutória, o preposto da ré, João Zara, apresentou declarações contraditórias em relação às políticas internas da empresa (VCS Policies), especialmente sobre segurança digital e conduta da autora. A autora solicitou a gravação integral da audiência, diante da relevância das falas, mas o pedido foi indeferido pela Vara, sem justificativa. A ata da audiência também deixou de registrar falas essenciais e documentos mencionados oralmente.
+Durante a audiência instrutória, o preposto da ré, João Zara, apresentou declarações contraditórias em relação às políticas internas da empresa (VCS Policies – Doc. 07, juntado pela reclamada em 12/07/2025, hash 090075b), especialmente sobre segurança digital e conduta da autora. A autora solicitou a gravação integral da audiência, diante da relevância das falas, mas o pedido foi indeferido pela Vara, sem justificativa. A ata da audiência (Doc. Ata da Audiência, juntada pela autora em 27/06/2025, data dos embargos, hash c6aee80) também deixou de registrar falas essenciais e documentos mencionados oralmente.
 
-Posteriormente, foram opostos embargos de declaração, com o objetivo de sanar omissões relevantes da sentença, como a negativa de perícia digital e a ausência de enfrentamento de pedidos específicos. Os embargos foram rejeitados de forma genérica, sem análise dos pontos indicados.
+Posteriormente, foram opostos embargos de declaração – Doc. Embargos_Declaracao, juntados pela autora em 27/06/2025 (hash 624fa3d), com o objetivo de sanar omissões relevantes da sentença, como a negativa de perícia digital e a ausência de enfrentamento de pedidos específicos. Os embargos foram rejeitados de forma genérica, sem análise dos pontos indicados.
 
 📌 Esses elementos revelam um contexto de instrução processual fragilizada, marcada por obstáculos à produção de prova e omissões decisórias que serão detalhadas no item III.
 
@@ -48,14 +48,14 @@ Posteriormente, foram opostos embargos de declaração, com o objetivo de sanar 
 
 ### A) Indeferimento da Perícia Digital
 
-A produção de prova digital foi indeferida pela Vara, mesmo diante da impossibilidade contratual da parte autora em acessar os sistemas da ré. O documento “Terms of Employment” (hash: `6c2d1a3`), juntado aos autos, contém cláusulas que evidenciam hipossuficiência probatória estrutural:
+ A produção de prova digital foi indeferida pela Vara, mesmo diante da impossibilidade contratual da parte autora em acessar os sistemas da ré. O contrato de trabalho Deborah – juntado pela autora em 27/06/2025 (hash 9548f87), contém cláusulas que evidenciam hipossuficiência probatória estrutural:
 
 - Cláusula **2.3(d)**: veda presença de terceiros durante o trabalho, inviabilizando prova testemunhal presencial.
 - Cláusula **2.3(e)**: revoga acesso aos sistemas após o desligamento, proibindo qualquer tentativa de preservação de dados.
 - Cláusula **2.4(a)**: proíbe copiar, imprimir ou compartilhar conteúdo interno sem autorização.
 - Cláusula **3.1(b)**: estabelece que todo conteúdo acessado pertence exclusivamente à Amazon e não pode ser utilizado fora do ambiente corporativo.
 
-Além disso, o preposto da ré afirmou em juízo que a autora seria advertida se realizasse captura de tela e enviasse conteúdo para seu e-mail pessoal — declaração registrada em ata (hash: `c6aee80`). O e-mail de dispensa (hash: `9a8f2d0`) reforça esse bloqueio, ao comunicar o desligamento imediato sem qualquer instrução sobre preservação de dados. O contrato de rescisão contém cláusula expressa que orienta: *“lembre-se da confidencialidade, mesmo após a demissão”*.
+Além disso, o preposto da ré afirmou em juízo que a autora seria advertida se realizasse captura de tela e enviasse conteúdo para seu e-mail pessoal — declaração registrada na Ata da Audiência (Doc. Ata da Audiência, juntada pela autora em 27/06/2025, hash c6aee80). O e-mail de dispensa (Doc. email de demissão – juntado pela autora em 27/06/2025, hash 79a40aa) reforça esse bloqueio, ao comunicar o desligamento imediato sem qualquer instrução sobre preservação de dados. O contrato de rescisão contém cláusula expressa que orienta: *“lembre-se da confidencialidade, mesmo após a demissão”*.
 
 📌 Esses elementos demonstram que a autora foi impedida de preservar provas digitais por meios próprios, sendo a perícia judicial a única via possível. Sua negativa configura cerceamento técnico e violação ao contraditório (art. 5º, LV, CF).
 
@@ -68,7 +68,7 @@ A audiência instrutória foi marcada por falas relevantes que não constam na a
 - Afirmou que a autora teria violado protocolos de segurança durante o treinamento, mas também declarou que ela foi aprovada e **não recebeu qualquer advertência formal**.
 - Disse que “pessoas transitavam na casa” da autora, o que **não corresponde à realidade**, já que apenas ela e seu marido residem no local, e ele trabalhava fora durante os horários de atendimento.
 
-Nenhuma dessas falas foi registrada na ata (hash: `c6aee80`), impedindo a verificação posterior. O pedido de **gravação integral da audiência foi indeferido**, sem justificativa. A autora também mencionou documentos como o contrato de rescisão (hash: `09c5b0b`), o e-mail de dispensa (hash: `9a8f2d0`), o código de conduta (hash: `1043dcb`) e o cadastro no sistema Chime (hash: `aaf1f47`), mas **nenhum deles foi referenciado na ata**, apesar de terem sido utilizados para confrontar o depoimento da ré.
+Nenhuma dessas falas foi registrada na ata (Doc. Ata da Audiência, juntada pela autora em 27/06/2025, data dos embargos, hash c6aee80), impedindo a verificação posterior. O pedido de **gravação integral da audiência foi indeferido**, sem justificativa. A autora também mencionou documentos como o contrato de rescisão – Doc. 04, juntado pela reclamada em 30/04/2025 (hash 09c5b0b), o e-mail de dispensa – Doc. email de demissão, juntado pela autora em 27/06/2025 (hash 79a40aa), o código de conduta – Doc. 06, juntado pela reclamada em 27/05/2025 (hash 1043dcb) e o cadastro no sistema Chime – Doc. Cadastro no Chime, juntado pela autora em 04/06/2025 (hash aaf1f47), mas **nenhum deles foi referenciado na ata**, apesar de terem sido utilizados para confrontar o depoimento da ré.
 
 📌 A omissão de falas e documentos, somada à negativa de gravação, compromete o contraditório e a ampla defesa, configurando vício na instrução.
 
@@ -107,8 +107,8 @@ A petição inicial requereu, de forma clara e fundamentada:
 
 - A produção de prova digital nos sistemas internos da ré (Chime, Moments, terminal de atendimento);
 - A conferência das horas trabalhadas via agenda interna;
-- A análise do e-mail de dispensa fora do expediente (hash: `9a8f2d0`);
-- A consideração das cláusulas contratuais que impedem acesso aos sistemas após o desligamento (ToE – hash: `6c2d1a3`).
+   - A análise do e-mail de dispensa fora do expediente (Doc. email de demissão – juntado pela autora em 27/06/2025, hash 79a40aa);
+   - A consideração das cláusulas contratuais que impedem acesso aos sistemas após o desligamento (contrato de trabalho Deborah – juntado pela autora em 27/06/2025, hash 9548f87).
 
 Nenhum desses pontos foi enfrentado na sentença. O juízo limitou-se a afirmar que “não há prova suficiente”, sem considerar que a própria negativa de perícia impediu a produção da prova. Essa omissão compromete a lógica decisória e viola o art. 489, §1º, IV, do CPC, que exige enfrentamento dos fundamentos relevantes à solução da controvérsia.
 
@@ -118,9 +118,12 @@ Diante da omissão da sentença, a parte autora opôs embargos de declaração, 
 
 | Pedido Omitido na Sentença | Reiterado nos Embargos | Hash Referenciado |
 |----------------------------|-------------------------|--------------------|
-| Perícia digital            | ✅                      | `6c2d1a3`          |
-| Agenda interna             | ✅                      | `aaf1f47`          |
-| Cláusulas de bloqueio      | ✅                      | `6c2d1a3`          |
+
+| Perícia digital            | ✅                      | contrato de trabalho Deborah – juntado pela autora em 27/06/2025 (hash 9548f87) |
+       |
+| Agenda interna             | ✅                      | Cadastro no Chime – Doc. Cadastro no Chime, juntado pela autora em 04/06/2025 (hash aaf1f47) |
+    |
+| Cláusulas de bloqueio      | ✅                      | contrato de trabalho Deborah – juntado pela autora em 27/06/2025 (hash 9548f87) |
 | Pedido de gravação feito por e-mail e ignorado pela Vara | ✅ | [anexos a serem juntados] |
 
 Além desses, os embargos complementares também reiteraram **seis pedidos expressos**, todos já formulados na petição inicial:
@@ -230,7 +233,7 @@ O preposto afirmou que “tudo começa pelo AtoZ”, invertendo completamente os
 #### A Agenda Interna Provaria Tudo
 
 - A **Amazon Moments** registra os lançamentos de ausência com data e hora, comprovando a comunicação prévia da autora sobre sua cirurgia.
-- O **terminal de atendimento** registra trabalho fora do expediente — como o e-mail enviado no domingo à noite — evidenciando jornada excessiva e falta de suporte.
+- O **terminal de atendimento** registra trabalho fora do expediente.
 - O depoimento do preposto é incompatível com os registros internos, e o juízo **negou acesso à prova decisiva**, impedindo a verificação da verdade.
 
 #### Cerceamento Sistêmico
@@ -308,7 +311,7 @@ A sentença também incorre em nulidade por fundamentação deficiente. Nos term
 
 - **Se baseia exclusivamente em depoimento oral**, ignorando prova documental robusta.
 - **Não confronta contradições evidentes** entre documentos e depoimentos.
-- **Omitiu análise do Terms of Employment**, documento essencial para aferição da jornada e das obrigações contratuais.
+   - **Omitiu análise do contrato de trabalho Deborah – juntado pela autora em 27/06/2025 (hash 9548f87)**, documento essencial para aferição da jornada e das obrigações contratuais.
 - **Ignorou os embargos de declaração**, rejeitando-os em bloco sem enfrentar os fundamentos relevantes.
 
 📌 A soma dessas omissões configura nulidade absoluta, pois compromete a coerência, a completude e a legitimidade da prestação jurisdicional. A atuação do juízo extrapolou os limites da imparcialidade e comprometeu a integridade do processo.
@@ -393,8 +396,8 @@ Requer-se, caso não reconhecida a nulidade da sentença:
 
 ### PRINCIPAIS (Nulidade e Cerceamento)
 1. **Nulidade absoluta da sentença** por cerceamento de defesa quádruplo
-2. **Reconhecimento do erro na rejeição do ToE** como "inovação" nos embargos (Súmula 8 STJ)
-3. **Juntada definitiva do ToE ao RO** com efeitos retroativos (art. 1.007, §4º + 1.023, CPC)
+2. **Reconhecimento do erro na rejeição do contrato de trabalho Deborah** como "inovação" nos embargos (Súmula 8 STJ)
+3. **Juntada definitiva do contrato de trabalho Deborah ao RO – juntado pela autora em 27/06/2025 (hash 9548f87)** com efeitos retroativos (art. 1.007, §4º + 1.023, CPC)
 4. **Retorno dos autos à origem** para nova instrução obrigatória  
 5. **Perícia digital compulsória** com acesso a logs, emails, registros e Amazon Moments
 6. **Juntada da gravação integral** da audiência una
@@ -404,7 +407,7 @@ Requer-se, caso não reconhecida a nulidade da sentença:
 6. **Reconhecimento da dispensa discriminatória** (Súmula 443/TST)
 7. **Deferimento do acesso à agenda interna Amazon Moments** (pedido originário omitido)
 8. **Recálculo de verbas** com horas extras e adicional noturno (trabalho fora expediente)  
-9. **Condenação em danos morais** (mínimo R$ 30.000,00)
+9. **Condenação em danos morais** (mínimo R$ 50.000,00)
 10. **Aplicação do art. 479, CLT** (rescisão antecipada - 31 dias)
 11. **Exibição compulsória** de logs, emails e registros internos da Amazon
 
@@ -422,11 +425,20 @@ Requer-se, caso não reconhecida a nulidade da sentença:
 
 📌 A preservação imediata é essencial para garantir a integridade da instrução, diante da natureza volátil dos dados digitais e da possibilidade de apagamento unilateral. O pedido encontra amparo no art. 373, §1º do CPC (inversão do ônus da prova), na LGPD (Lei 13.709/18) e no princípio da verdade real.
 
+📎 PEDIDOS ADICIONAIS
+📌 Processuais
+Reconhecimento do presente recurso como substitutivo, nos termos do art. 1.009, §1º do CPC, por corrigir omissões graves do recurso anterior interposto por patrono que não enfrentou os pontos essenciais da controvérsia.
+
+Correção da subscrição indevida no sistema PJe, com reconhecimento da autoria probatória da parte autora sobre os documentos juntados a partir de 27/06/2025, conforme e-mails enviados à Vara e hashes anexos.
+
+Reconhecimento da validade da juntada por e-mail, com base na boa-fé, diligência da parte e falha administrativa da Vara que impediu protocolo direto.
+
+📌 Materiais
+Ressarcimento dos gastos com estruturação do ambiente de trabalho remoto e instrução processual, conforme notas fiscais da Leroy Merlin juntadas nos embargos, no valor de R$ [valor total], com base no art. 884 do Código Civil e na jurisprudência do TST sobre responsabilidade do empregador por estrutura mínima no teletrabalho.
 ---
 ## IX. FUNDAMENTAÇÃO ESPECÍFICA – JUSTIÇA GRATUITA
 
 ### Hipossuficiência Comprovada
-
 A autora encontra-se em situação de **desemprego**, sem qualquer fonte de renda regular desde a dispensa ocorrida em 11/07. O desligamento ocorreu em contexto de adoecimento psíquico, com prescrição de **Sertralina em dose máxima (4 comprimidos/dia)**, conforme laudos médicos e receitas juntadas aos autos.
 
 📌 As despesas médicas decorrentes do quadro psiquiátrico são contínuas e incompatíveis com qualquer possibilidade de custeio de perícia particular ou produção autônoma de prova técnica. A autora não possui recursos para contratar assistente técnico, perito particular ou realizar diligências digitais.
@@ -434,6 +446,10 @@ A autora encontra-se em situação de **desemprego**, sem qualquer fonte de rend
 📌 Além disso, os dados essenciais à instrução — como logs de acesso, e-mails corporativos, registros internos e interações no sistema Amazon Moments — estão sob **controle exclusivo da reclamada**, que bloqueou o acesso da autora imediatamente após a dispensa. A autora não possui qualquer meio de recuperar ou preservar essas evidências por conta própria.
 
 📌 A hipossuficiência econômica e técnica está demonstrada nos autos e reforçada pela própria estrutura do processo, que revela uma **desigualdade processual evidente** entre uma multinacional com aparato jurídico robusto e uma trabalhadora desempregada, adoecida e sem acesso aos próprios dados.
+
+A autora juntou aos embargos nota fiscal da Leroy Merlin, comprovando gastos com estrutura mínima para viabilizar o trabalho remoto e a instrução processual, incluindo material de isolamento acústico. Tais despesas foram realizadas por necessidade funcional, diante da ausência de suporte da reclamada e da impossibilidade de acesso ao sistema PJe.
+
+O ressarcimento é pedido subsidiariamente, e seu eventual indeferimento não compromete o mérito principal, mas apenas evidencia a omissão dos patronos anteriores, que ignoraram provas relevantes e deixaram de proteger os direitos da parte.
 
 ---
 
@@ -447,36 +463,13 @@ A autora está **materialmente impedida de produzir prova técnica**, diante do 
 - **Histórico de interações** no Amazon Moments
 - **Registros de jornada e movimentações internas**
 
-📌 Após a dispensa, a autora foi **bloqueada digitalmente**, sem acesso aos próprios dados, documentos ou sistemas. As cláusulas do **Terms of Employment** impedem a preservação autônoma de evidências, e a autora sequer teve acesso pleno aos documentos juntados pela reclamada.
+📌 Após a dispensa, a autora foi **bloqueada digitalmente**, sem acesso aos próprios dados, documentos ou sistemas. As cláusulas do **contrato de trabalho Deborah – juntado pela autora em 27/06/2025 (hash 9548f87)** impedem a preservação autônoma de evidências, e a autora sequer teve acesso pleno aos documentos juntados pela reclamada.
 
 📌 A desigualdade processual é flagrante: uma multinacional com controle absoluto da prova digital, contra uma trabalhadora desempregada, adoecida e sem respaldo técnico. A inversão do ônus da prova é medida necessária e urgente, nos termos do **art. 373, §1º do CPC**, para garantir a paridade de armas e a efetividade da prestação jurisdicional.
 
 📌 Requer-se, portanto, a **concessão da justiça gratuita**, com isenção total de custas e honorários, bem como a **preservação urgente da prova digital**, mediante expedição de ofícios à reclamada e ao provedor de e-mail corporativo, para garantir a integridade da instrução.
 
 
-
-## IX. FUNDAMENTAÇÃO ESPECÍFICA - JUSTIÇA GRATUITA
-
-### Hipossuficiência Comprovada
-**[SEÇÃO PARA VOCÊ DESENVOLVER]**
-- Situação atual de desemprego
-- Despesas médicas decorrentes do quadro psiquiátrico
-- Impossibilidade de custear perícia particular
-- Dados sigilosos sob controle exclusivo da reclamada
-
-### Impossibilidade de Produzir Provas
-**[ARGUMENTO CENTRAL]**
-- **Amazon controla**: logs, emails, gravações, sistemas internos
-- **Recorrente bloqueada**: acesso cortado imediatamente após demissão
-- **Terms of Employment**: cláusulas impedem preservação de evidências
-- **Desigualdade processual**: multinacional vs. trabalhadora desempregada
-
-### Não Pode Ser Penalizada por Buscar Direitos
-**[DESENVOLVER AQUI]**
-- Art. 5º, XXXV, CF: direito de ação
-- Impossível produzir prova de dados sigilosos
-- Sucumbência seria bis in idem (punição dupla)
-- **Requer isenção total, inclusive em caso de improcedência**
 
 ---
 
@@ -497,10 +490,14 @@ Diante do exposto, requer:
 **SUBSIDIARIAMENTE**, caso não reconhecida a nulidade, requer o **provimento parcial** para:
 
 - Reconhecimento da dispensa discriminatória;
-- Condenação da reclamada ao pagamento de indenização por danos morais (mínimo de R$ 30.000,00);
+- Condenação da reclamada ao pagamento de indenização por danos morais (mínimo de R$ 50.000,00);
 - Aplicação do art. 479 da CLT, com pagamento proporcional ao tempo remanescente de contrato;
+- Requer-se a aplicação da **taxa Selic acumulada**, conforme jurisprudência consolidada do STF (ADC 58 e 59), STJ (REsp 1.795.982) e TST, e nos termos da **Lei 14.905/2024**, por ser índice legal vigente e aplicável na ausência de especificação expressa na Petição Inicial. Tal pedido não configura inovação, mas apenas adequação técnica à norma superveniente e aos parâmetros jurisprudenciais atuais.
 - Exibição compulsória de provas digitais sob controle exclusivo da reclamada;
 - Expedição de ofícios para preservação urgente de dados e comunicação ao MPT sobre violações coletivas à LGPD.
+
+**CONDENAÇÃO DA RECLAMADA AO PAGAMENTO DE HONORÁRIOS SUCUMBENCIAIS**, no percentual de 15% sobre o valor da condenação, em favor dos patronos da parte autora, nos termos do art. 791-A da CLT, como reconhecimento da atuação técnica e da boa-fé processual.
+
 
 📌 A autora reafirma que este recurso não busca apenas reparação individual, mas a restauração da integridade processual, da escuta legítima e da dignidade violada. Que este Tribunal seja espaço de verdade, enfrentamento técnico e reparação institucional.
 
@@ -518,24 +515,3 @@ Tel.: (11) 98497-7234
 
 ---
 
-## 📋 SEÇÕES PARA VOCÊ COMPLETAR:
-
-### 🎯 **PRIORITÁRIAS** (Argumentos mais fortes):
-1. **Seção IV**: Contradição VCS Policies vs João Zara *(argumento devastador)*
-2. **Seção V**: Juízo criou defesa para Amazon *(prova de parcialidade)*
-3. **Seção IX**: Justiça gratuita + impossibilidade de provas *(estratégico)*
-
-### ⚖️ **SECUNDÁRIAS** (Reforço):
-4. **Seção III**: Desenvolver cada tipo de cerceamento
-5. **Seção VI**: Listar todas as omissões da sentença  
-6. **Seção VII**: Nexo temporal da discriminação
-
-### 📎 **ANEXOS OBRIGATÓRIOS**:
-- Petição revogação 22/09/2025
-- WhatsApp com Dr. Rubens  
-- Embargos de Declaração Complementares
-- Email demissão (João Zara)
-- Laudos médicos
-- Documentos que comprovem hipossuficiência
-
-**FOQUE nas seções prioritárias - são os argumentos que podem ganhar o caso!**
